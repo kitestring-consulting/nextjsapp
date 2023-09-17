@@ -1,0 +1,704 @@
+{
+  "products": [
+    {
+      "id": 53,
+      "name": "Home & Garden 53",
+      "price": 979,
+      "image": "https://example.com/product-53.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 36,
+      "name": "Home & Garden 36",
+      "price": 757,
+      "image": "https://example.com/product-36.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 75,
+      "name": "Home & Garden 75",
+      "price": 714,
+      "image": "https://example.com/product-75.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 8,
+      "name": "Electronics 8",
+      "price": 584,
+      "image": "https://example.com/product-8.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 68,
+      "name": "Home & Garden 68",
+      "price": 986,
+      "image": "https://example.com/product-68.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 86,
+      "name": "Clothing 86",
+      "price": 462,
+      "image": "https://example.com/product-86.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 58,
+      "name": "Electronics 58",
+      "price": 964,
+      "image": "https://example.com/product-58.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 6,
+      "name": "Home & Garden 6",
+      "price": 302,
+      "image": "https://example.com/product-6.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 82,
+      "name": "Clothing 82",
+      "price": 487,
+      "image": "https://example.com/product-82.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 45,
+      "name": "Home & Garden 45",
+      "price": 693,
+      "image": "https://example.com/product-45.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 49,
+      "name": "Home & Garden 49",
+      "price": 745,
+      "image": "https://example.com/product-49.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 92,
+      "name": "Electronics 92",
+      "price": 950,
+      "image": "https://example.com/product-92.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 49,
+      "name": "Clothing 49",
+      "price": 195,
+      "image": "https://example.com/product-49.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 65,
+      "name": "Clothing 65",
+      "price": 851,
+      "image": "https://example.com/product-65.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 19,
+      "name": "Clothing 19",
+      "price": 523,
+      "image": "https://example.com/product-19.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 23,
+      "name": "Electronics 23",
+      "price": 549,
+      "image": "https://example.com/product-23.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 91,
+      "name": "Clothing 91",
+      "price": 673,
+      "image": "https://example.com/product-91.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 38,
+      "name": "Home & Garden 38",
+      "price": 268,
+      "image": "https://example.com/product-38.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 37,
+      "name": "Electronics 37",
+      "price": 907,
+      "image": "https://example.com/product-37.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 45,
+      "name": "Electronics 45",
+      "price": 467,
+      "image": "https://example.com/product-45.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 87,
+      "name": "Electronics 87",
+      "price": 516,
+      "image": "https://example.com/product-87.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 63,
+      "name": "Electronics 63",
+      "price": 605,
+      "image": "https://example.com/product-63.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 91,
+      "name": "Clothing 91",
+      "price": 624,
+      "image": "https://example.com/product-91.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 9,
+      "name": "Home & Garden 9",
+      "price": 973,
+      "image": "https://example.com/product-9.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 95,
+      "name": "Electronics 95",
+      "price": 306,
+      "image": "https://example.com/product-95.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 65,
+      "name": "Electronics 65",
+      "price": 117,
+      "image": "https://example.com/product-65.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 89,
+      "name": "Electronics 89",
+      "price": 582,
+      "image": "https://example.com/product-89.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 59,
+      "name": "Home & Garden 59",
+      "price": 705,
+      "image": "https://example.com/product-59.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 62,
+      "name": "Clothing 62",
+      "price": 121,
+      "image": "https://example.com/product-62.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 11,
+      "name": "Clothing 11",
+      "price": 133,
+      "image": "https://example.com/product-11.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 5,
+      "name": "Clothing 5",
+      "price": 154,
+      "image": "https://example.com/product-5.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 13,
+      "name": "Home & Garden 13",
+      "price": 154,
+      "image": "https://example.com/product-13.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 46,
+      "name": "Clothing 46",
+      "price": 853,
+      "image": "https://example.com/product-46.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 76,
+      "name": "Clothing 76",
+      "price": 713,
+      "image": "https://example.com/product-76.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 31,
+      "name": "Electronics 31",
+      "price": 592,
+      "image": "https://example.com/product-31.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 33,
+      "name": "Home & Garden 33",
+      "price": 531,
+      "image": "https://example.com/product-33.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 22,
+      "name": "Electronics 22",
+      "price": 397,
+      "image": "https://example.com/product-22.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 99,
+      "name": "Home & Garden 99",
+      "price": 801,
+      "image": "https://example.com/product-99.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 18,
+      "name": "Clothing 18",
+      "price": 492,
+      "image": "https://example.com/product-18.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 58,
+      "name": "Home & Garden 58",
+      "price": 205,
+      "image": "https://example.com/product-58.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 32,
+      "name": "Electronics 32",
+      "price": 952,
+      "image": "https://example.com/product-32.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 36,
+      "name": "Clothing 36",
+      "price": 379,
+      "image": "https://example.com/product-36.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 15,
+      "name": "Home & Garden 15",
+      "price": 876,
+      "image": "https://example.com/product-15.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 49,
+      "name": "Electronics 49",
+      "price": 358,
+      "image": "https://example.com/product-49.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 20,
+      "name": "Electronics 20",
+      "price": 148,
+      "image": "https://example.com/product-20.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 6,
+      "name": "Home & Garden 6",
+      "price": 975,
+      "image": "https://example.com/product-6.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 31,
+      "name": "Electronics 31",
+      "price": 390,
+      "image": "https://example.com/product-31.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 46,
+      "name": "Electronics 46",
+      "price": 482,
+      "image": "https://example.com/product-46.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Clothing 2",
+      "price": 982,
+      "image": "https://example.com/product-2.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 100,
+      "name": "Clothing 100",
+      "price": 605,
+      "image": "https://example.com/product-100.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 37,
+      "name": "Home & Garden 37",
+      "price": 343,
+      "image": "https://example.com/product-37.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 31,
+      "name": "Home & Garden 31",
+      "price": 360,
+      "image": "https://example.com/product-31.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 19,
+      "name": "Clothing 19",
+      "price": 311,
+      "image": "https://example.com/product-19.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 79,
+      "name": "Home & Garden 79",
+      "price": 942,
+      "image": "https://example.com/product-79.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 82,
+      "name": "Clothing 82",
+      "price": 940,
+      "image": "https://example.com/product-82.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 57,
+      "name": "Electronics 57",
+      "price": 599,
+      "image": "https://example.com/product-57.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 65,
+      "name": "Clothing 65",
+      "price": 899,
+      "image": "https://example.com/product-65.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 56,
+      "name": "Home & Garden 56",
+      "price": 170,
+      "image": "https://example.com/product-56.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 4,
+      "name": "Home & Garden 4",
+      "price": 994,
+      "image": "https://example.com/product-4.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 66,
+      "name": "Home & Garden 66",
+      "price": 538,
+      "image": "https://example.com/product-66.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 17,
+      "name": "Clothing 17",
+      "price": 886,
+      "image": "https://example.com/product-17.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 82,
+      "name": "Home & Garden 82",
+      "price": 130,
+      "image": "https://example.com/product-82.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 41,
+      "name": "Home & Garden 41",
+      "price": 779,
+      "image": "https://example.com/product-41.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 85,
+      "name": "Clothing 85",
+      "price": 422,
+      "image": "https://example.com/product-85.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 86,
+      "name": "Home & Garden 86",
+      "price": 563,
+      "image": "https://example.com/product-86.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 1,
+      "name": "Clothing 1",
+      "price": 174,
+      "image": "https://example.com/product-1.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 3,
+      "name": "Electronics 3",
+      "price": 599,
+      "image": "https://example.com/product-3.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 34,
+      "name": "Clothing 34",
+      "price": 661,
+      "image": "https://example.com/product-34.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 28,
+      "name": "Home & Garden 28",
+      "price": 757,
+      "image": "https://example.com/product-28.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 29,
+      "name": "Electronics 29",
+      "price": 729,
+      "image": "https://example.com/product-29.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 76,
+      "name": "Home & Garden 76",
+      "price": 204,
+      "image": "https://example.com/product-76.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 91,
+      "name": "Home & Garden 91",
+      "price": 404,
+      "image": "https://example.com/product-91.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 37,
+      "name": "Home & Garden 37",
+      "price": 700,
+      "image": "https://example.com/product-37.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 3,
+      "name": "Home & Garden 3",
+      "price": 459,
+      "image": "https://example.com/product-3.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 44,
+      "name": "Clothing 44",
+      "price": 217,
+      "image": "https://example.com/product-44.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 58,
+      "name": "Home & Garden 58",
+      "price": 372,
+      "image": "https://example.com/product-58.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 53,
+      "name": "Clothing 53",
+      "price": 549,
+      "image": "https://example.com/product-53.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 30,
+      "name": "Electronics 30",
+      "price": 314,
+      "image": "https://example.com/product-30.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 90,
+      "name": "Clothing 90",
+      "price": 516,
+      "image": "https://example.com/product-90.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 23,
+      "name": "Electronics 23",
+      "price": 121,
+      "image": "https://example.com/product-23.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 70,
+      "name": "Home & Garden 70",
+      "price": 872,
+      "image": "https://example.com/product-70.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 1,
+      "name": "Clothing 1",
+      "price": 980,
+      "image": "https://example.com/product-1.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 89,
+      "name": "Home & Garden 89",
+      "price": 651,
+      "image": "https://example.com/product-89.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 12,
+      "name": "Home & Garden 12",
+      "price": 801,
+      "image": "https://example.com/product-12.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 77,
+      "name": "Clothing 77",
+      "price": 590,
+      "image": "https://example.com/product-77.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 93,
+      "name": "Clothing 93",
+      "price": 513,
+      "image": "https://example.com/product-93.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 50,
+      "name": "Clothing 50",
+      "price": 766,
+      "image": "https://example.com/product-50.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 4,
+      "name": "Clothing 4",
+      "price": 920,
+      "image": "https://example.com/product-4.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 5,
+      "name": "Home & Garden 5",
+      "price": 908,
+      "image": "https://example.com/product-5.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 84,
+      "name": "Home & Garden 84",
+      "price": 292,
+      "image": "https://example.com/product-84.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 95,
+      "name": "Home & Garden 95",
+      "price": 380,
+      "image": "https://example.com/product-95.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 9,
+      "name": "Home & Garden 9",
+      "price": 659,
+      "image": "https://example.com/product-9.jpg",
+      "category": "Home & Garden"
+    },
+    {
+      "id": 36,
+      "name": "Electronics 36",
+      "price": 192,
+      "image": "https://example.com/product-36.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 43,
+      "name": "Clothing 43",
+      "price": 943,
+      "image": "https://example.com/product-43.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 38,
+      "name": "Clothing 38",
+      "price": 482,
+      "image": "https://example.com/product-38.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 65,
+      "name": "Electronics 65",
+      "price": 591,
+      "image": "https://example.com/product-65.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 76,
+      "name": "Electronics 76",
+      "price": 817,
+      "image": "https://example.com/product-76.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 61,
+      "name": "Clothing 61",
+      "price": 329,
+      "image": "https://example.com/product-61.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 91,
+      "name": "Electronics 91",
+      "price": 273,
+      "image": "https://example.com/product-91.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 80,
+      "name": "Electronics 80",
+      "price": 963,
+      "image": "https://example.com/product-80.jpg",
+      "category": "Electronics"
+    }
+  ]
+}
